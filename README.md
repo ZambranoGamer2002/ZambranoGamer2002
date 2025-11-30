@@ -4,7 +4,7 @@
   <a href="mailto:a.pedropaulozp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-link-aqui">
+  <a href="https://www.linkedin.com/in/pedro-paulo-zambrano-panduro-88207a327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -53,19 +53,25 @@
 ---
 
 # 🚀 Proyectos Destacados
-*(Colocaré ejemplos hasta que me envíes tus repos oficiales)*
 
-### 🔹 **Sistema de Gestión Académica**  
-Aplicación web para control de cursos, estudiantes y reportes.  
-**Tecnologías:** Angular, Node.js, PostgreSQL, Docker
+### 🔹 **CVAnalysisApp – Sistema de Reclutamiento Inteligente**  
+📌 *Proyecto académico avanzado basado en FastAPI + React, extracción de datos, ML y RAG.*  
+🔗 Repositorio: https://github.com/ZambranoGamer2002/CVAnalysisApp  
+**Tecnologías:** FastAPI, React, PostgreSQL, Docker, ML, Spacy, Python
 
-### 🔹 **App Móvil de Registro y Control**  
-Aplicación en Android Studio para inventarios.  
-**Tecnologías:** Java, MySQL
+---
 
-### 🔹 **Dashboard de Analítica Empresarial**  
-Dashboard interactivo para toma de decisiones.  
-**Tecnologías:** PowerBI, PostgreSQL
+### 🔹 **Frontend Cevichería – Plataforma Web Comercial**  
+📌 *Frontend moderno para una cevichería, con diseño atractivo y adaptable.*  
+🔗 Repositorio: https://github.com/ZambranoGamer2002/frontendCevicheria  
+**Tecnologías:** Angular, Bootstrap, CSS, TypeScript
+
+---
+
+### 🔹 **Cevichería Web – Sistema Web Completo**  
+📌 *Proyecto web con funcionalidades completas para un negocio gastronómico.*  
+🔗 Repositorio: https://github.com/ZambranoGamer2002/CevicheriaWeb  
+**Tecnologías:** PHP, MySQL, HTML, CSS, JavaScript
 
 ---
 
@@ -83,8 +89,8 @@ Dashboard interactivo para toma de decisiones.
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aPedropaulozp&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aPedropaulozp&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZambranoGamer2002&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZambranoGamer2002&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -92,7 +98,7 @@ Dashboard interactivo para toma de decisiones.
 # 💬 Contacto
 
 📧 **a.pedropaulozp@gmail.com**  
-📱 **+51 989 397 693**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/pedro-paulo-zambrano-panduro-88207a327/  
 🌍 Disponible para prácticas preprofesionales, desarrollo freelance y proyectos reales.
 
 ---
